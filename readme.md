@@ -1,4 +1,4 @@
-# Real Estate Inspired Responsive Website W/Express,Node.js,MongoDB
+# Real Estate Inspired Responsive Website W / Express, Node.js, MongoDB, GoogleAPI, Bcrypt, Express-Session
 
 ### Created By: Anis Mansour , Jomar Mendoza, and Ashley Radford
 
